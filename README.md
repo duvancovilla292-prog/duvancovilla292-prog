@@ -2,6 +2,8 @@
 
 # 👋 Hola, soy Ciel Covilla
 
+![Imagen 1](WhatsApp Image 2026-10-20 at 8.03.03 PM.jpeg)
+
 **Duvan Steven Covilla Rolón** · Desarrollador de Software en formación · 📍 Cúcuta, Colombia
 
 *Lógica · Ciencia · Sistemas robustos · Automatización con IA*
