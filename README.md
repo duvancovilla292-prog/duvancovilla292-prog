@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Ciel Covilla
 
-![Imagen 1](WhatsApp Image 2026-10-20 at 8.03.03 PM.jpeg)
+<img width="781" height="188" alt="image" src="https://github.com/user-attachments/assets/a8e76eef-aa07-4d4a-ae03-058d241e3f90" />
 
 **Duvan Steven Covilla Rolón** · Desarrollador de Software en formación · 📍 Cúcuta, Colombia
 
@@ -64,6 +64,8 @@ Demos en vivo, código y detalles técnicos.
 ---
 
 <div align="center">
+  
+<img width="785" height="432" alt="image" src="https://github.com/user-attachments/assets/2b17fb24-b969-4e1e-a827-edeb8b45d49c" />
 
 *"La lógica te lleva de A a B. La imaginación te lleva a todas partes."*
 
